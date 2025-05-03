@@ -20,5 +20,4 @@ Project ini terkait penggunaan pandas dan matplotlib untuk melakukan proproses, 
 * matplotlib
 * scikit-learn
 
-
-                                                                                                Vebronia Bikolo
+Vebronia Bikolo
